@@ -8,3 +8,9 @@ you're hired
 Wait there are class components too I thought it was all functions now a days.
 
 Call back this () => <= ()
+
+
+## how to use
+1. clone repo
+2. npm start
+3. go to localhost:3000

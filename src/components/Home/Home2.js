@@ -37,7 +37,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible, I apply my passion for AI and building prodcuts using
+              Whenever possible, I apply my passion for AI and building products using
               with <b className="purple">Node.js, Python</b> and other relevant
               <i>
                 <b className="purple">
